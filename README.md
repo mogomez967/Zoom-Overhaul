@@ -7,4 +7,4 @@ solution to addressing some of these issues and creating a new template design w
 better encompass an interactive, learning environment.
 
 
-view presentation and template at https://www.figma.com/proto/927fsKNeBSHzMGS07M3oT9/cm131visuallayout%3A-Teacher?node-id=382%3A118&scaling=contain&page-id=0%3A1&starting-point-node-id=382%3A118
+View presentation and interactive template at https://www.figma.com/proto/927fsKNeBSHzMGS07M3oT9/cm131visuallayout%3A-Teacher?node-id=382%3A118&scaling=contain&page-id=0%3A1&starting-point-node-id=382%3A118
